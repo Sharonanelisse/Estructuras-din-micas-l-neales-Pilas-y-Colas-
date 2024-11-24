@@ -1,0 +1,14 @@
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\bin\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).exe
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\bin\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).deps.json
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\bin\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).runtimeconfig.json
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\bin\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).dll
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\bin\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).pdb
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).AssemblyInfoInputs.cache
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).AssemblyInfo.cs
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).csproj.CoreCompileInputs.cache
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).dll
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\refint\Tarea - Estructuras dinámicas líneales (Pilas y Colas).dll
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).pdb
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\Tarea - Estructuras dinámicas líneales (Pilas y Colas).genruntimeconfig.cache
+C:\Users\sharonmarroquin\source\repos\Tarea - Estructuras dinámicas líneales (Pilas y Colas)\obj\Debug\net8.0\ref\Tarea - Estructuras dinámicas líneales (Pilas y Colas).dll
